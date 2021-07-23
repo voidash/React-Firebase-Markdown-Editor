@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-tailwind/react": "0.3.4",
+    "@next-auth/firebase-adapter": "^0.1.2",
+    "ace-builds": "^1.4.12",
+    "firebase": "^8.7.1",
+    "next": "latest",
+    "next-auth": "^3.27.3",
+    "react": "^17.0.2",
+    "react-ace": "^9.4.1",
+    "react-dom": "^17.0.2",
+    "react-firebase-hooks": "^3.0.4",
+    "react-mde": "^11.5.0",
+    "showdown": "^1.9.1",
+    "vim.js": "^0.1.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
